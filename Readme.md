@@ -1,6 +1,6 @@
 # Guess the number game
 
-## [Start playing](https://abhiseek17.github.io/guess-the-number/)
+## [Start playing](https://abhishek-sharma17.github.io/guess-the-number/)
 
 ## How to play?
 
